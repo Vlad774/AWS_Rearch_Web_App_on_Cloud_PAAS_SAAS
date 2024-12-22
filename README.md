@@ -34,13 +34,13 @@ This project refactors the vProfile web application by transitioning from tradit
 ## Walk-through:
 
 
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/Diagramm.png) 
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/artifact.png) 
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/instances.png)
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/volumes.png)
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/security%20sgoup.png)
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/target%20groups.png)
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/autoscalling.png)
- ![First try](https://github.com/Vlad774/Lift_and_Shift/blob/main/backend.sh.png)
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/Diagramm.png) 
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/AmazonMQ.png) 
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/EC2.png)
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/ENV.png)
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/RDS.png)
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/cloudfront.png)
+ ![First try](https://github.com/Vlad774/AWS_Rearch_Web_App_on_Cloud_PAAS_SAAS/blob/main/memcaches.png)
+ 
 
 
