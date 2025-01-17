@@ -1,7 +1,7 @@
-# Refactoring with AWS
+# CloudRefactor: Modernizing Web Applications with AWS PaaS and SaaS
 ## Description
 
-This project refactors the vProfile web application by transitioning from traditional infrastructure to AWS PaaS and SaaS services for improved scalability, flexibility, and reduced operational overhead. It replaces EC2 instances with Elastic Beanstalk, RDS for MySQL, ElastiCache, and Amazon MQ to simplify management and improve performance. The use of Route 53 and CloudFront ensures efficient DNS management and content delivery globally.
+This project refactors the Appliction web application by transitioning from traditional infrastructure to AWS PaaS and SaaS services for improved scalability, flexibility, and reduced operational overhead. It replaces EC2 instances with Elastic Beanstalk, RDS for MySQL, ElastiCache, and Amazon MQ to simplify management and improve performance. The use of Route 53 and CloudFront ensures efficient DNS management and content delivery globally.
 
 ## Technologies
 
